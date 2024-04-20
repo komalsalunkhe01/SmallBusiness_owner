@@ -2,7 +2,3 @@ Retail: This includes various types of retail businesses such as grocery stores,
 Food and Beverage: This category encompasses restaurants, cafes, food trucks, bakeries, and catering services.
 Services: This covers a broad spectrum of businesses including beauty salons, spas, gyms, tutoring services, event planning, cleaning services, and repair/maintenance services.
 E-commerce: With the rise of internet penetration, e-commerce businesses have become increasingly popular, including online retail stores, marketplaces, and service providers.
-Healthcare: Small healthcare businesses include clinics, pharmacies, diagnostic centers, and healthcare consulting services.
-Technology: This category includes software development firms, IT services companies, digital marketing agencies, and startups working on innovative tech solutions.
-Manufacturing: Small-scale manufacturing businesses in India range from textiles, handicrafts, and furniture to electronics, automotive parts, and consumer goods.
-Agriculture and Agribusiness: India's 
