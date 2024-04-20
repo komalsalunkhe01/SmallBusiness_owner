@@ -5,8 +5,4 @@ E-commerce: With the rise of internet penetration, e-commerce businesses have be
 Healthcare: Small healthcare businesses include clinics, pharmacies, diagnostic centers, and healthcare consulting services.
 Technology: This category includes software development firms, IT services companies, digital marketing agencies, and startups working on innovative tech solutions.
 Manufacturing: Small-scale manufacturing businesses in India range from textiles, handicrafts, and furniture to electronics, automotive parts, and consumer goods.
-Agriculture and Agribusiness: India's agricultural sector is vast, and small businesses in this category include farms, food processing units, agri-input suppliers, and agricultural equipment manufacturers.
-Tourism and Hospitality: This category includes hotels, homestays, travel agencies, tour operators, and tourist guides.
-Education and Training: Small businesses in education include coaching centers, language schools, vocational training institutes, and online course providers.
-Financial Services: This encompasses small-scale banks, microfinance institutions, insurance agencies, and accounting firms.
-Real Estate: Small businesses in real estate include property management companies, real estate agencies, construction firms, and rental property owners.
+Agriculture and Agribusiness: India's 
